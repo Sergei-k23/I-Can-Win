@@ -3,6 +3,5 @@ test test
 new line 1
 new line 2
 
-new couplet
-and one more line
------------------
+test git gui
+second line for gui
