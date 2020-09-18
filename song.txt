@@ -6,3 +6,6 @@ new line 2
 new couplet
 and one more line
 
+conflict resolving
+one more
+
