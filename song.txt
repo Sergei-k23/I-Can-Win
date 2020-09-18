@@ -5,10 +5,4 @@ new line 2
 
 new couplet
 and one more line
------------------
 
-testing branch
-testing
-
-adding more and more
-more and more
